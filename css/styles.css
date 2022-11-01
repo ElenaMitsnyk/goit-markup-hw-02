@@ -98,7 +98,6 @@ text-align: center;
 letter-spacing: 0.03em;
 color: #212121;
 }
-
 .main-advantage {
 font-weight: 700;
 font-size: 14px;
@@ -137,7 +136,19 @@ text-align: center;
 letter-spacing: 0.03em;
 color: #757575;
 }
-
+.main-work-tema {
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: #212121;
+}
+.main-work-text {
+font-size: 16px;
+line-height: 1,875;
+letter-spacing: 0.03em;
+color: #757575;
+}
 .footer {
     background-color: #2F303A;
 }
